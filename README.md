@@ -13,14 +13,14 @@ The library contains all of [FontAwesome's Library](https://fontawesome.com/chea
 ## Installation
 
 ```sh
-composer require tryfirst/fontawe-somegenerator
+composer require imsidz/fontawesome-generator
 ```
 
 Alternatively, add to your composer.json file with:
 
 ```sh
 "require": {
-        "tryfirst/fontawe-somegenerator": "v0.0.2"
+        "imsidz/fontawesome-generator": "v0.0.2"
     }
 ```
 
