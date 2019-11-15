@@ -14,7 +14,7 @@ Alternatively, add to your composer.json file with:
 
 ```sh
 "require": {
-        "imsidz/fontawesome-generator": "v0.0.2"
+        "imsidz/fontawesome-generator": "dev-master"
     }
 ```
 
