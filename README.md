@@ -2,12 +2,6 @@
 
 Faker extension for randomly picking a [FontAwesome](https://fontawesome.com/) (5.9.0 / 2019-07-14) icon.
 
-# Faker Extension
-
-An extension of the [fzaninotto/Faker](https://github.com/fzaninotto/Faker) PHP Library.
-This has two functions that will either return a random icon name or the entire array of names.
-This extension was forked from [IORoot/faker-fontawesome](https://github.com/IORoot/faker-fontawesome).
-
 The library contains all of [FontAwesome's Library](https://fontawesome.com/cheatsheet).
 
 ## Installation
