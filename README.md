@@ -45,7 +45,7 @@ This will generate an i tag with a random fontawesome icon.
 
 ## Example index file
 
-Within the `vendor/tryfirst/fontawesomegenerator/` folder you will find an `index.php` file which can be moved
+Within the `vendor/imsidz/fontawesomegenerator/` folder you will find an `index.php` file which can be moved
 to your root directory and will provide an example of both functions.
 
 ![Example inde file](fontawesome_test.png)
