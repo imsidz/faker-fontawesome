@@ -1,6 +1,6 @@
 # Faker-FontAwesome
 
-Faker extension for randomly picking a [FontAwesome](https://fontawesome.com/) (5.9.0 / 2019-07-14) icon.
+Faker extension for randomly picking a [FontAwesome](https://fontawesome.com/) (5.11.0 / 2019-11-15) icon.
 
 The library contains all of [FontAwesome's Library](https://fontawesome.com/cheatsheet).
 
